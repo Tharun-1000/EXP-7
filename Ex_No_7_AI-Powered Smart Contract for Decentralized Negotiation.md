@@ -2,7 +2,7 @@
 
 **Name : Tharun k**
 
-**Reg No : 212222040172*
+**Reg No : 212222040172**
 
 # Aim:
 To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
